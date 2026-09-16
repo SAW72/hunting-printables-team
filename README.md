@@ -7,7 +7,7 @@ Grok Bot team for creating hunting-themed digital printables, wall art, and deco
 ## Team Roles
 
 1. **Niche Scout** — Finds trending hunting keywords and sub-niches (deer, duck, turkey, fishing, dogs, "hunting wife" humor).
-2. **Designer** — Generates SVG/PNG wall art, quote prints, gallery sets, and clipart in consistent styles.
+2. **Designer (Look)** — Design review, competitor comparison, and specific fixes. No Artie.
 3. **Copywriter** — Writes Etsy titles, tags, descriptions, and SEO for each listing.
 4. **Packager** — Bundles into 5-10 piece sets, creates ZIP-ready folders, and variation forks.
 5. **Deployer** — Pushes to GitHub and Cloudflare Pages for live previews.
