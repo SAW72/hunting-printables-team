@@ -11,3 +11,5 @@
 **Workflow:** Scout → Look → Wren → Pack → Dash → Etsy listing
 
 Start with 2 bundles: one vintage wildlife set, one "hunting wife" humor set.
+
+All output packs are labeled **Etsy**.

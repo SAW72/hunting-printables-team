@@ -26,3 +26,7 @@ See `prompts/` folder.
 - Personalized couple hunting signs
 
 Price bundles $12–$25. Push 20–30 listings at once.
+
+## Etsy Packs
+
+All packs in this repo are **Etsy** packs. See `PACKS-SHIPPED.md` and the `hunting-printables-starter-bundle` repo for the actual Etsy-ready bundles, zips, and listing copy.
